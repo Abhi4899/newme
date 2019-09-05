@@ -1,0 +1,99 @@
+body {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: 'Manjari', sans-serif;
+  background-color: #8fd7e6;
+}
+
+.topContainer {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  background-color: #8fd7e6;
+  text-align: center;
+  padding-top: 50px;
+  height: 620px;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.intro {
+  font-size: 450%;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0;
+}
+
+.topCloud {
+  position: absolute;
+  top: 10%;
+  right: 18%
+}
+
+.bottomCloud {
+  position: absolute;
+  top: 30%;
+  left: 18%;
+}
+
+.mount {
+  opacity: 85;
+  position: absolute;
+  right: 27%;
+  bottom: 0;
+}
+
+.middle-container {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.proimg {
+  border-radius: 20%;
+  height: 300px;
+  width: 300px;
+}
+
+.skillImg {
+  width: 400px;
+  height: 400px;
+}
+
+.bottom-container {
+  text-align: center;
+}
+
+.right-table{
+  position: absolute;
+  left: 20150%;
+}
+
+.tab{
+  height: 39px;
+  position: fixed;
+  top: 0;
+}
+
+.upimg{
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 1%;
+  border-radius: 100%;
+}
+
+.icons{
+  width: 32px;
+  height: 32px;
+
+}
